@@ -1,0 +1,23 @@
+{
+  "records_ingested": {
+    "alpha": 6,
+    "beta": 5,
+    "gamma": 5,
+    "total": 16
+  },
+  "unified_applicants": 8,
+  "matched_across_multiple_bureaus": 5,
+  "single_bureau_only": 3,
+  "flagged_incomplete_or_conflicting": 3,
+  "match_method_breakdown": {
+    "pan_exact": 3,
+    "pan_exact+fuzzy_supplement": 1,
+    "pan_partial_masked": 1,
+    "single_source": 3
+  },
+  "incomplete_applicant_ids": [
+    "729f501613",
+    "3705b2e813",
+    "6d883deacf"
+  ]
+}

@@ -1,0 +1,9 @@
+applicant_id,full_name,dob,pan,street,city,state,pincode,sources,match_method,match_confidence,blended_score,data_quality_flags,alpha_raw_score,alpha_normalized_score,beta_raw_score,beta_normalized_score,gamma_raw_score,gamma_normalized_score
+563ca5f100,Rohan Sharma,1988-04-12,ABCPS1234K,12 MG Road,Delhi,Delhi,110001,alpha;beta;gamma,pan_exact,1.0,81.4,,780.0,80.0,82.0,82.0,180.0,82.1
+729f501613,Sunita Reddy,1990-06-18,DEFPR3456N,22 Banjara Hills Rd,Hyderabad,Telangana,500001,alpha;beta;gamma,pan_exact+fuzzy_supplement,0.92,86.4,beta_missing_pan,810.0,85.0,88.0,88.0,140.0,86.1
+3705b2e813,Vikram Singh,1982-05-10,EFGPS7890O,3 MI Road,Jaipur,Rajasthan,302001,alpha;beta;gamma,pan_exact,1.0,56.6,dob_conflict_across_alpha_beta_gamma,640.0,56.7,55.0,55.0,420.0,58.0
+1d709edb7d,Rahul Verma,1984-07-21,IJKPV7788S,5 Hazratganj,Lucknow,Uttar Pradesh,226001,alpha;beta,pan_partial_masked,0.95,69.5,,690.0,65.0,74.0,74.0,,
+6d883deacf,Kavita Rao,1989-08-09,LMNPR2468V,8 Beach Road,Visakhapatnam,Andhra Pradesh,530001,alpha;gamma,pan_exact,1.0,70.8,alpha_missing_dob,705.0,67.5,,,260.0,74.0
+9ec00950eb,Sanjay Malhotra,1983-06-06,OPQPM5791Y,21 Sector 17,Chandigarh,Chandigarh,160001,alpha,single_source,1.0,59.2,,655.0,59.2,,,,
+b10128d594,Farhan Sheikh,1985-05-15,UVWPS1357E,2 Tolichowki,Hyderabad,Telangana,500016,beta,single_source,1.0,85.0,,,,85.0,85.0,,
+cf51ba2682,Rajesh Khanna,1978-01-01,ZABPK6802J,9 Mall Road,Amritsar,Punjab,143001,gamma,single_source,1.0,54.0,,,,,,460.0,54.0
