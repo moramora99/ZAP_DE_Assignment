@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "full_name": "Rohan Sharma",
+      "birth_date": "04/12/1988",
+      "pan": "ABCPS1234K",
+      "address": {
+        "street": "12 MG Road",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pincode": "110001"
+      },
+      "risk_score": 82,
+      "delinquency_count": 0,
+      "pulled_at": "2026-06-03T10:00:00"
+    },
+    {
+      "full_name": "Sunita Reddi",
+      "birth_date": "06/18/1990",
+      "pan": null,
+      "address": {
+        "street": "22 Banjara Hills Rd",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "risk_score": 88,
+      "delinquency_count": 1,
+      "pulled_at": "2026-06-03T10:00:00"
+    },
+    {
+      "full_name": "Vikram Singh",
+      "birth_date": "05/10/1982",
+      "pan": "EFGPS7890O",
+      "address": {
+        "street": "3 MI Road",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "pincode": "302001"
+      },
+      "risk_score": 55,
+      "delinquency_count": 2,
+      "pulled_at": "2026-06-03T10:00:00"
+    },
+    {
+      "full_name": "Rahul Verma",
+      "birth_date": "07/21/1984",
+      "pan": "IJKPV****S",
+      "address": {
+        "street": "5 Hazratganj",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226001"
+      },
+      "risk_score": 74,
+      "delinquency_count": 3,
+      "pulled_at": "2026-06-03T10:00:00"
+    },
+    {
+      "full_name": "Farhan Sheikh",
+      "birth_date": "05/15/1985",
+      "pan": "UVWPS1357E",
+      "address": {
+        "street": "2 Tolichowki",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500016"
+      },
+      "risk_score": 85,
+      "delinquency_count": 2,
+      "pulled_at": "2026-06-03T10:00:00"
+    }
+  ]
+}

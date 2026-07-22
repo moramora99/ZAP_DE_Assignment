@@ -1,0 +1,7 @@
+first_name,last_name,dob,pan,street,city,state,pincode,cibil_score,report_date
+Rohan,Sharma,1988-04-12,ABCPS1234K,12 MG Road,Delhi,Delhi,110001,780,2026-06-01
+Sunita,Reddy,1990-06-18,DEFPR3456N,22 Banjara Hills Rd,Hyderabad,Telangana,500001,810,2026-06-01
+Vikram,Singh,1982-05-10,EFGPS7890O,3 MI Road,Jaipur,Rajasthan,302001,640,2026-06-01
+Rahul,Verma,1984-07-21,IJKPV7788S,5 Hazratganj,Lucknow,Uttar Pradesh,226001,690,2026-06-01
+Kavita,Rao,,LMNPR2468V,8 Beach Road,Visakhapatnam,Andhra Pradesh,530001,705,2026-06-01
+Sanjay,Malhotra,1983-06-06,OPQPM5791Y,21 Sector 17,Chandigarh,Chandigarh,160001,655,2026-06-01
